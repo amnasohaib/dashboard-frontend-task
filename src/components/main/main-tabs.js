@@ -20,12 +20,16 @@ function NavigationTabs() {
 
   return (
     <Tabs variant="unstyled">
-      <TabList display="flex" alignItems="center" justifyContent="space-between">
+      <TabList
+        display="flex"
+        alignItems="center"
+        justifyContent="space-between"
+      >
         <Box display="flex">
-        <Tab>Ongoing</Tab>
-        <Tab>Completed</Tab>
-        <Tab>Cancelled</Tab>
-        <Tab>Drafts</Tab>
+          <Tab>Ongoing</Tab>
+          <Tab>Completed</Tab>
+          <Tab>Cancelled</Tab>
+          <Tab>Drafts</Tab>
         </Box>
 
         <Button
@@ -40,9 +44,8 @@ function NavigationTabs() {
           </Text>
         </Button>
       </TabList>
-      
-      <TabIndicator mt="-1.5px" height="2px" bg="blue.500" borderRadius="1px" />
 
+      <TabIndicator mt="-1.5px" height="2px" bg="blue.500" borderRadius="1px" />
 
       <TabPanels>
         {/* Ongoing Tab */}
