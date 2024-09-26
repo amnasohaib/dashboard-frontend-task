@@ -1,0 +1,126 @@
+{
+    "projects": [
+      {
+        "name": "Make an E-Commerce Website for a Brand Store",
+        "type": "Web",
+        "totalTasks": 5,
+        "completedTasks": 3,
+        "status": "Ongoing",
+        "nextMilestone": "Dec 5th, 2024"
+      },
+      {
+        "name": "Website technical maintenance project",
+        "type": "Web",
+        "totalTasks": 4,
+        "completedTasks": 2,
+        "status": "Ongoing",
+        "nextMilestone": "Jan 1st, 2024"
+      },
+      {
+        "name": "WordPress website speed and SEO Optimization",
+        "type": "Web",
+        "totalTasks": 3,
+        "completedTasks": 1,
+        "status": "Ongoing",
+        "nextMilestone": "In 3 days"
+      },
+      {
+        "name": "Make an E-Commerce Website for a Brand Store",
+        "type": "Web",
+        "totalTasks": 4,
+        "completedTasks": 3,
+        "status": "Ongoing",
+        "nextMilestone": "Dec 5th, 2024"
+      },
+      {
+        "name": "Website technical maintenance project",
+        "type": "Web",
+        "totalTasks": 2,
+        "completedTasks": 1,
+        "status": "Ongoing",
+        "nextMilestone": "Jan 1st, 2024"
+      },
+      
+      {
+        "name": "WordPress website speed and SEO Optimization",
+        "type": "Web",
+        "totalTasks": 4,
+        "completedTasks": 4,
+        "status": "Completed",
+        "nextMilestone": "In 3 days"
+      },
+      {
+        "name": "Make an E-Commerce Website for a Brand Store",
+        "type": "Web",
+        "totalTasks": 3,
+        "completedTasks": 3,
+        "status": "Completed",
+        "nextMilestone": "Dec 5th, 2024"
+      },
+      {
+        "name": "WordPress website speed and SEO Optimization",
+        "type": "Web",
+        "totalTasks": 2,
+        "completedTasks": 2,
+        "status": "Completed",
+        "nextMilestone": "In 3 days"
+      },
+      {
+        "name": "WordPress website speed and SEO Optimization",
+        "type": "Web",
+        "totalTasks": 5,
+        "completedTasks": 5,
+        "status": "Completed",
+        "nextMilestone": "In 3 days"
+      },
+      {
+        "name": "WordPress website speed and SEO Optimization",
+        "type": "Web",
+        "totalTasks": 2,
+        "completedTasks": 0,
+        "status": "Cancelled",
+        "nextMilestone": "In 3 days"
+      },
+      {
+        "name": "Website technical maintenance project",
+        "type": "Web",
+        "totalTasks": 4,
+        "completedTasks": 3,
+        "status": "Cancelled",
+        "nextMilestone": "Jan 1st, 2024"
+      },
+      {
+        "name": "WordPress website speed and SEO Optimization",
+        "type": "Web",
+        "totalTasks": 4,
+        "completedTasks": 1,
+        "status": "Cancelled",
+        "nextMilestone": "In 3 days"
+      },
+      {
+        "name": "Website technical maintenance project",
+        "type": "Web",
+        "totalTasks": 4,
+        "completedTasks": 3,
+        "status": "Drafts",
+        "nextMilestone": "Jan 1st, 2024"
+      },
+      {
+        "name": "WordPress website speed and SEO Optimization",
+        "type": "Web",
+        "totalTasks": 4,
+        "completedTasks": 3,
+        "status": "Drafts",
+        "nextMilestone": "In 3 days"
+      },
+      {
+        "name": "Make an E-Commerce Website for a Brand Store",
+        "type": "Web",
+        "totalTasks": 5,
+        "completedTasks": 3,
+        "status": "Drafts",
+        "nextMilestone": "Dec 5th, 2024"
+      }
+    ]
+  }
+  
