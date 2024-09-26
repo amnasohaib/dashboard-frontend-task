@@ -21,21 +21,22 @@ function NavigationTabs() {
   return (
     <Tabs variant="unstyled">
       <TabList
-        display="flex"
-        alignItems="center"
-        justifyContent="space-between"
+        // display="flex"
+        // alignItems="center"
+        // justifyContent="space-between"
       >
         <Box display="flex">
-          <Tab>Ongoing</Tab>
-          <Tab>Completed</Tab>
-          <Tab>Cancelled</Tab>
-          <Tab>Drafts</Tab>
+          <Tab _selected={{color: "#5876b7"}}>Ongoing</Tab>
+          <Tab _selected={{color: "#5876b7"}}>Completed</Tab>
+          <Tab _selected={{color: "#5876b7"}}>Cancelled</Tab>
+          <Tab _selected={{color: "#5876b7"}}>Drafts</Tab>
         </Box>
 
         <Button
           bg="#5876b7"
           color="white"
-          ml="auto"
+          position={"absolute"}
+          right={0}
           _hover={{ color: "#5876b7", bg: "white" }}
         >
           <FaCirclePlus />
@@ -45,7 +46,7 @@ function NavigationTabs() {
         </Button>
       </TabList>
 
-      <TabIndicator mt="-1.5px" height="2px" bg="blue.500" borderRadius="1px" />
+      <TabIndicator mt="-1.5px" height="2px" bg="#5876b7" borderRadius="1px" />
 
       <TabPanels>
         {/* Ongoing Tab */}
